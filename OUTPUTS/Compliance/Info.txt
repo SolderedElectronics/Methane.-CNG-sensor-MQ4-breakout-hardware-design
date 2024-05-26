@@ -2,4 +2,4 @@ SKU: 333104
 Full product name: Methane, CNG sensor MQ4 breakout
 Country of origin: Croatia
 HS tariff code: 90269000
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388667901
